@@ -9,7 +9,7 @@ We heighly recommend you go through the [Pybullet Documention](https://pybullet.
 
 Make sure you have [anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html) installed beforehand.
 ```shell
-git clone https://github.com/RiicK3d/irobman_project.git
+git clone https://github.com/iROSA-lab/irobman_project_wise2324.git
 cd irobman_project
 conda create -n irobman python=3.8
 conda activate irobman
